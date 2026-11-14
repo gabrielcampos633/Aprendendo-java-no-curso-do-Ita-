@@ -1,4 +1,4 @@
-public class cara { 
+public class binario { 
 
     public static void main(String[] args) { 
 
@@ -12,3 +12,6 @@ public class cara {
     } 
     
     }
+
+    // So pra deixar claro, que isso nao vai ser algo que vou utilizar, mas é bom saber que pode existir isso em um código java, 
+    // que é a possibilidade de declarar uma variável com var, e o compilador vai inferir o tipo da variável.
